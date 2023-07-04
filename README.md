@@ -1,9 +1,11 @@
 # RNA e SVM Aplicadas no Desenvolvimento de Sensores Virtuais e Detecção e Diagnóstico de Falhas
 
-O presente repositório apresenta os algoritmos e base de dados gerados durante o desenvolvimento do trabalho de conclusão de curso intitulado "Redes Neurais e SVM Aplicadas no Desenvolvimento de Sensores Virtuais e Detecção e Diagnóstico de Falhas em Processos Reacionais Complexo" apresentado em 23 de maio de 2023 na Universidade Federal de Alagoas como requisito para obtenção do título de bacharel em Engenharia Química.
+## Descrição do Projeto
+Este repositório hospeda o trabalho de conclusão de curso intitulado "Redes Neurais e SVM Aplicadas no Desenvolvimento de Sensores Virtuais e Detecção e Diagnóstico de Falhas em Processos Reacionais Complexo". O projeto foi apresentado em 23 de maio de 2023 na Universidade Federal de Alagoas como requisito para obtenção do título de bacharel em Engenharia Química.
 
-# Resumo
+Os componentes deste projeto incluem os algoritmos desenvolvidos em Python para modelar um sistema reacional complexo e implementar os modelos de aprendizado de máquina supervisionado para as tarefas de classificação e regressão, a base de dados gerada durante o projeto e o arquivo PDF completo do trabalho de conclusão de curso.
 
+## Resumo do Projeto
 A evolução da indústria ao longo dos séculos tem sido marcada por revoluções que
 transformaram a forma como os produtos são fabricados e os processos são gerenciados. A
 Quarta Revolução Industrial, também conhecida como Indústria 4.0, representa um salto
@@ -27,4 +29,4 @@ apresentou melhor desempenho no diagnóstico das falhas, identificando corretame
 específicos em mais de 99,98% dos casos. Uma possível melhoria no processo seria a integração
 das técnicas, utilizando RNA na detecção e SVM na identificação do tipo de falha. Os modelos
 e estratégias propostas podem ser aplicadas para aprimorar o controle e monitoramento de
-processos reacionais complexos e otimizar o desempenho dos reatores.
+processos
